@@ -1,0 +1,14 @@
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\obj\Debug\net6.0\RestaurantReservationSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\obj\Debug\net6.0\RestaurantReservationSystem.DAL.AssemblyInfoInputs.cache
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\obj\Debug\net6.0\RestaurantReservationSystem.DAL.AssemblyInfo.cs
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\obj\Debug\net6.0\RestaurantReservationSystem.DAL.csproj.CoreCompileInputs.cache
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\bin\Debug\net6.0\RestaurantReservationSystem.DAL.deps.json
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\bin\Debug\net6.0\RestaurantReservationSystem.DAL.dll
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\bin\Debug\net6.0\RestaurantReservationSystem.DAL.pdb
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\obj\Debug\net6.0\RestaurantReservationSystem.DAL.csproj.AssemblyReference.cache
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\obj\Debug\net6.0\RestaurantReservationSystem.DAL.dll
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\obj\Debug\net6.0\refint\RestaurantReservationSystem.DAL.dll
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\obj\Debug\net6.0\RestaurantReservationSystem.DAL.pdb
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\obj\Debug\net6.0\ref\RestaurantReservationSystem.DAL.dll
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\bin\Debug\net6.0\RestaurantReservationSystem.DAL.runtimeconfig.json
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.DAL\obj\Debug\net6.0\RestaurantReservationSystem.DAL.genruntimeconfig.cache

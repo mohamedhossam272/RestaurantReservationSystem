@@ -1,0 +1,15 @@
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\obj\Debug\net6.0\RestaurantReservationSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\obj\Debug\net6.0\RestaurantReservationSystem.BLL.AssemblyInfoInputs.cache
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\obj\Debug\net6.0\RestaurantReservationSystem.BLL.AssemblyInfo.cs
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\obj\Debug\net6.0\RestaurantReservationSystem.BLL.csproj.CoreCompileInputs.cache
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\bin\Debug\net6.0\RestaurantReservationSystem.BLL.deps.json
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\bin\Debug\net6.0\RestaurantReservationSystem.BLL.dll
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\bin\Debug\net6.0\RestaurantReservationSystem.BLL.pdb
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\bin\Debug\net6.0\RestaurantReservationSystem.DAL.dll
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\bin\Debug\net6.0\RestaurantReservationSystem.DAL.pdb
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\obj\Debug\net6.0\RestaurantReservationSystem.BLL.csproj.AssemblyReference.cache
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\obj\Debug\net6.0\Restaura.D1CB22D0.Up2Date
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\obj\Debug\net6.0\RestaurantReservationSystem.BLL.dll
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\obj\Debug\net6.0\refint\RestaurantReservationSystem.BLL.dll
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\obj\Debug\net6.0\RestaurantReservationSystem.BLL.pdb
+D:\Eng Ahmed Khaled\RestaurantReservationSystem\RestaurantReservationSystem.BLL\obj\Debug\net6.0\ref\RestaurantReservationSystem.BLL.dll
